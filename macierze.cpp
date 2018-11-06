@@ -83,12 +83,12 @@ int main(int argc, char*argv[]){
 	cin>>stala;
 	int **tab = new int*[stala];
 	for(int i = 0; i < stala; i++){
-		tab[i] = new int[10];
+		tab[i] = new int[stala];
 	}
 	wypelnij(tab, stala);
 	for(int i = 0; i < stala; i++){
 		for(int j = 0; j < stala; j++){
-			cout<<" "<<tab[i][j]<<" ";
+			cout<<" "<<tab[i][j]<<"\t";
 		}
 		cout<<""<<endl;
 	}
