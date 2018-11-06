@@ -11,5 +11,4 @@ to the center of the matrix. The filling starts with number 0 and ends with x^2-
 The whole project is written in c++ and works on linux and windows os.
 
 ## Image
-![lol]
-(./scr.jpg)
+![lol](./scr.jpg)
