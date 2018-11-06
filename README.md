@@ -12,4 +12,4 @@ The whole project is written in c++ and works on linux and windows os.
 
 ## Image
 ![Image]
-(./screenshot)
+(./scr.jpg)
